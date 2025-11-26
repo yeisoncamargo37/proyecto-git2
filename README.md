@@ -1,1 +1,1 @@
-linea original de main
+linea modificada en rama-conflicto
