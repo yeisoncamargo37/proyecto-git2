@@ -1,1 +1,5 @@
-linea modificada de main
+<<<<<<< HEAD
+linea modificada 
+=======
+linea modificada en rama-conflicto
+>>>>>>> rama-conflicto
